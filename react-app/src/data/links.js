@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Appraisal Research Corporation";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Henry County (Official Site)", category: "Government", subcategory: "County", url: "https://www.henrycountyohio.gov/", description: "Official government portal for Henry County, Ohio (county seat: Napoleon)." },
